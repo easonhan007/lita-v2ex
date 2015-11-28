@@ -5,7 +5,7 @@ describe Lita::Handlers::V2ex, lita_handler: true do
 
   it 'should get content form v2ex' do
     send_command('v2ex')
-    expect(replies).not_to be_empty
+    expect(replies.last).to include('v2ex.com')
   end
 
 end
