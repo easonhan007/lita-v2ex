@@ -1,6 +1,6 @@
 # lita-v2ex
 
-TODO: Add a description of the plugin.
+Display top 10 hots of V2EX today
 
 ## Installation
 
@@ -12,8 +12,10 @@ gem "lita-v2ex"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+Nothing to config
 
 ## Usage
+```
+Lita v2ex
 
-TODO: Describe the plugin's features and how to use them.
+```

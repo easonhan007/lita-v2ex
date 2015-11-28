@@ -3,9 +3,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ["easonhan"]
   spec.email         = ["nbkhic@qq.com"]
-  spec.description   = "v2ex today"
-  spec.summary       = "Add a summary"
-  spec.homepage      = "http://itest.info"
+  spec.description   = "A lita handler which displays top 10 v2ex hot posts today"
+  spec.summary       = "A lita handler which displays top 10 v2ex hot posts today"
+  spec.homepage      = "https://github.com/easonhan007/lita-v2ex"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
