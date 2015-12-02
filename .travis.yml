@@ -2,4 +2,4 @@ language: ruby
 rvm:
   - 2.2
 services:
-  - redis-server --port 6379
+  - redis-server
